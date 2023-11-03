@@ -1,8 +1,11 @@
 [package]
 name = "daydream"
 description = "Transparent, automatic syncing of in-memory data to SQLite on disk."
+repository = "https://github.com/alilleybrinker/daydream"
+documentation = "https://docs.rs/daydream/latest/daydream"
 license = "Apache-2.0"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
+
